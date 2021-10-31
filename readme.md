@@ -1,0 +1,1 @@
+Express js is a quick and lightweight framework used to help developing websites and mobile applications for Node.js by providing access to a library of features that such projects might need.
